@@ -1,4 +1,4 @@
-# color_app
+# Personality Check App 
 
 A new Flutter project.
 
